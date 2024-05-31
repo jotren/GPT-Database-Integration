@@ -16,3 +16,4 @@ __pycache__/
 *.joblib
 /models/trained-models/
 .env
+/data/raw/titanic_dataset.csv
